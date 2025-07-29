@@ -40,3 +40,9 @@ This project analyzes sales data from a fictional coffee shop to discover insigh
 **Recommendation**: Ensure card terminals are available and promote contactless payment options. Introduce special discounts or offers to customers who pay using cards. Focus on improving online payment methods.
 -	**Insight**: New customers are relatively higher than the returning customers.
 **Recommendation**: Introduce loyalty programs and promote offers for second time customers and customers having loyalty cards.
+
+## 🧠Learnings
+- Connecting Mysql database to PowerBI.
+- Using window functions in sql (lag() for MoM changes).
+- Using CTEs for managing queries. .
+
