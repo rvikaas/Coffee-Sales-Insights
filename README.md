@@ -3,22 +3,22 @@
 ## 📁Project Overview
 This project analyzes sales data from a fictional coffee shop to discover insights into product performance, customer behavior, and revenue trends. Using SQL for data querying and transformation, and Power BI data visualization. The primary goal was not only to generate business insights but also to strengthen practical skills in SQL and data visualization using Power BI.
 
-## Dataset
+## 📦Dataset
 -	Source: Kaggle
 -	Columns: date, datetime, card, money, coffee_name
 
-## Tools & Technologies
+## 🛠Tools & Technologies
 -	SQL (MySQL)
 -	Power BI
   
-## Steps
+## 🔍Steps
 -	Data Cleaning & Preparation (SQL)
 -	Querying and analysis (Sql)
 -	Creating KPIs 
 -	Visualizations (Power BI)
 -	Insights & Recommendations
 
-## Key KPIs and Visuals
+## 📍Key KPIs and Visuals
 -	Total Sales
 -	Number of Products
 -	Total number of orders
@@ -27,7 +27,7 @@ This project analyzes sales data from a fictional coffee shop to discover insigh
 -	Weekly sales trend
 -	Peak hours
   
-## Insights and Recommendations
+## 💡Insights and Recommendations
 -	Insight: Sales peak between 10AM and 11 AM.
 Recommendation: Focus promotions or offers during these hours to maximize engagement.
 -	Insight: Latte is the top-selling item across all months.
